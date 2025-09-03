@@ -4,3 +4,7 @@ __pycache__/
 *.pyo
 *.DS_Store
 data/silver/
+!data/silver/
+!data/silver/cell_kpi_minute/
+!data/silver/cell_kpi_minute/**/
+!data/silver/cell_kpi_minute/**/*.parquet
